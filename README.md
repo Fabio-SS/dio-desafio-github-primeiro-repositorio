@@ -8,7 +8,7 @@ Desafio de Projeto sobre Git/GitHub da DIO
 
 ## Desafio
 [x] Instalação do Git  
-[x] Configuração de usuário e e-mail
+[x] Configuração de usuário e e-mail    
 [x] Criando repositório do desafio  
 [x] Editando e atualizando repositório  
-[x] Projeto finalizado
+[x] Projeto repositório finalizado
