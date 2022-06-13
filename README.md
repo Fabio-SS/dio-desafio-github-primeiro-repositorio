@@ -1,5 +1,5 @@
 # Repositório - Desafio de Projeto sobre Git/GitHub
-Desafio de Projeto sobre Git/GitHub da DIO#
+Desafio de Projeto sobre Git/GitHub da DIO
 
 ## Links Úteis
 • [Markdown - Sintaxe Básica](https://www.markdownguide.org/basic-syntax/)  
@@ -7,6 +7,8 @@ Desafio de Projeto sobre Git/GitHub da DIO#
 • [Git - Download](https://git-scm.com/downloads)
 
 ## Desafio
-[x] Criar Repositório    
-[x] Criar Primeiro Projeto  
-[x] Organização do Projeto no repositório
+[x] Instalação do Git  
+[x] Configuração de usuário e e-mail
+[x] Criando repositório do desafio  
+[x] Editando e atualizando repositório  
+[x] Projeto finalizado
